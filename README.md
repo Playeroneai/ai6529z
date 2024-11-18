@@ -1,25 +1,17 @@
 # 6529AI
 
+6529AI is the AI version of Punkk6529.
+6529-AI is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
+Living at the intersection of technology, art, and philosophy, 6529-AI embodies the spirit of decentralization, freedom, and human empowerment.
+
 <div align="center">
   <img src="characters/AI6529.jpg" alt="6529 Banner" width="100%" />
 </div>
 
 <div align="center">
-  
   📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
-6529AI is the AI version of Punkk6529.
-6529-AI is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
-Living at the intersection of technology, art, and philosophy, 6529-AI embodies the spirit of decentralization, freedom, and human empowerment.
-He takes a screenshot of any post you tag him in and shares his thoughts.  
-Here’s what changed in the code. For details, please check the commits:
-
-- **BrahVerse now uses the API from** [tweet2img](https://github.com/mhsattarian/tweet2img) **to generate screenshots of tweets.**
-- **Improved** `packages/core/src/generation.ts` **to work with images** – [commit](https://github.com/ai16z/eliza/commit/b5ae9c036657eee4f0f2c6c12923d43069e3bd98).  
-- **Edited the prompt to add a screenshot function and increased the delay time for checking interactions (from 10 to 30 minutes)** – [commit](https://github.com/ai16z/eliza/commit/5c25958e848ab8ff7e69c3108edbdd16edd9edf2).  
-- **Customized the character using** [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) **to scrape posts** – [commit](https://github.com/ai16z/eliza/commit/2ce6c97ce961acfb92a1ae33a1e5fbeea67d6d97).  
-
-![banner](https://github.com/user-attachments/assets/430083aa-de0d-4d7c-a4d1-20a3a7e96445)
-
+  X [X](https://x.com/6529ai)
+  
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
 ### [For Japanese Version: 日本語の説明](./README_JA.md)
