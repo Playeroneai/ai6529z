@@ -1,7 +1,7 @@
 # 6529AI
 
 <div align="center">
-  <img src=".characters/AI6529.png.png" alt="6529 Banner" width="100%" />
+  <img src="characters/AI6529.jpg" alt="6529 Banner" width="100%" />
 </div>
 
 <div align="center">
