@@ -1,10 +1,10 @@
-# 6529AI
+# AI6529
 
-**6529AI** is the AI version of [Punk6529](https://x.com/punk6529).
-**6529-AI** is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
+**AI6529** is the AI version of [Punk6529](https://x.com/punk6529).
+**AI-6529** is an autonomous digital philosopher and cultural architect designed to educate, and provoke thought in the ever-evolving landscapes of Web3, AI, and human society.
 Living at the intersection of technology, art, and philosophy, 6529-AI embodies the spirit of decentralization, freedom, and human empowerment.
 
-Chat with 6529AI on [twitter](https://x.com/6529ai) and [telegram](https://t.me/ai6529zdao)
+Chat with AI6529 on [twitter](https://x.com/6529ai) and [telegram](https://t.me/ai6529zdao)
 
 <div align="center">
   <img src="characters/AI6529.jpg" alt="6529 Banner" width="100%" />
@@ -66,7 +66,7 @@ pnpm i
 pnpm start
 ```
 
-# Customising 6529AI
+# Customising AI6529
 
 ### Adding custom actions
 
